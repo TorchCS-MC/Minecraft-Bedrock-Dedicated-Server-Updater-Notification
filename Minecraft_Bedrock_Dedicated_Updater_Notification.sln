@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft_Bedrock_Dedicated_Updater_Notification", "Minecraft_Bedrock_Dedicated_Updater_Notification\Minecraft_Bedrock_Dedicated_Updater_Notification.csproj", "{A987320E-613F-43FF-8CC7-BA19BC03F462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A987320E-613F-43FF-8CC7-BA19BC03F462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A987320E-613F-43FF-8CC7-BA19BC03F462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A987320E-613F-43FF-8CC7-BA19BC03F462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A987320E-613F-43FF-8CC7-BA19BC03F462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
