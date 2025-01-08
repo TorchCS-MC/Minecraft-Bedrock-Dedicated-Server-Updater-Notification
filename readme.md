@@ -10,6 +10,17 @@ This tool automatically detects updates for Minecraft Bedrock Dedicated Server a
 
 ---
 
+# Important Notice
+
+This tool requires a Discord webhook that **must be created by a Discord Bot**. 
+If you need to create a webhook, you can use the following repository to do so:
+
+[Discord Webhook Manager](https://github.com/reversedcodes/Discord-Webhook-Manager)
+
+Make sure to configure your webhook correctly in the `config.txt` file for the tool to function properly.
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**.  
